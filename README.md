@@ -565,6 +565,10 @@ Then commit your change, make a new release (for example ``1.0.1``) and retry (o
 ``-v 1.0.1`` when calling mlflow this time). Now the run should succeed and voit la', 
 you have trained your new model on the new data.
 
+## WanDB project
+
+link [here](https://wandb.ai/baondq-ai-research-engineer-i-h-c-qu-c-gia-tp-hcm/nyc_airbnb/workspace?nw=nwuserbaondqairesearchengineer)
+
 ## License
 
 [License](LICENSE.txt)
