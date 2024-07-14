@@ -567,7 +567,9 @@ you have trained your new model on the new data.
 
 ## WanDB project
 
-link [here](https://wandb.ai/baondq-ai-research-engineer-i-h-c-qu-c-gia-tp-hcm/nyc_airbnb/workspace?nw=nwuserbaondqairesearchengineer)
+WanDB link: https://wandb.ai/baondq-ai-research-engineer-i-h-c-qu-c-gia-tp-hcm/nyc_airbnb/workspace?nw=nwuserbaondqairesearchengineer
+
+github link: https://github.com/baondq/build-ml-pipeline-for-short-term-rental-prices.git
 
 ## License
 
